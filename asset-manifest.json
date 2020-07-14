@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/address-finder/static/css/main.12bde1e6.chunk.css",
+    "main.js": "/address-finder/static/js/main.37db6b33.chunk.js",
+    "main.js.map": "/address-finder/static/js/main.37db6b33.chunk.js.map",
+    "runtime-main.js": "/address-finder/static/js/runtime-main.8b9e6e2f.js",
+    "runtime-main.js.map": "/address-finder/static/js/runtime-main.8b9e6e2f.js.map",
+    "static/js/2.7d24c94f.chunk.js": "/address-finder/static/js/2.7d24c94f.chunk.js",
+    "static/js/2.7d24c94f.chunk.js.map": "/address-finder/static/js/2.7d24c94f.chunk.js.map",
+    "index.html": "/address-finder/index.html",
+    "precache-manifest.11051ba3d9d6192a4c149b759d662dcc.js": "/address-finder/precache-manifest.11051ba3d9d6192a4c149b759d662dcc.js",
+    "service-worker.js": "/address-finder/service-worker.js",
+    "static/css/main.12bde1e6.chunk.css.map": "/address-finder/static/css/main.12bde1e6.chunk.css.map",
+    "static/js/2.7d24c94f.chunk.js.LICENSE.txt": "/address-finder/static/js/2.7d24c94f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b9e6e2f.js",
+    "static/js/2.7d24c94f.chunk.js",
+    "static/css/main.12bde1e6.chunk.css",
+    "static/js/main.37db6b33.chunk.js"
+  ]
+}
