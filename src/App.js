@@ -115,11 +115,11 @@ function App() {
       
     <div className="footer">
       <a href="https://www.linkedin.com/in/marcelo-martins-moreira">
-      <i class="fab fa-linkedin" ></i>
+      <i class="fab fa-linkedin fa-3x fa-spin" ></i>
       </a>
       Projeto feito por: Marcelo Martins Dev
       <a href="https://github.com/marcelomartinsdev">
-      <i class="fab fa-github" ></i>
+      <i class="fab fa-github fa-3x fa-spin" ></i>
       </a>
     </div>
   </div>
