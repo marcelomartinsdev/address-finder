@@ -1,13 +1,14 @@
 
-# <center> O objetivo desse projeto foi ampliar meus conhecimentos a cerca de Forms e a biblioteca Formik! </center>
+##  O objetivo desse projeto foi ampliar meus conhecimentos a cerca de Forms e a biblioteca Formik! 
 
 
 
-## <center> Para visualizar o projeto acesse: https://marcelomartinsdev.github.io/address-finder/ </center>
+## Para visualizar o projeto acesse:
+* https://marcelomartinsdev.github.io/address-finder/ 
 
 
 
 
-## <center> Ou clone meu repositório: </center>
+# Ou clone meu repositório:
 
-* <center> git clone https://github.com/marcelomartinsdev/address-finder.git </center>
+* git clone https://github.com/marcelomartinsdev/address-finder.git
